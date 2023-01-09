@@ -1,0 +1,20 @@
+C:\Users\Rustam\source\repos\client_server\client_server\bin\Debug\client_server.exe.config
+C:\Users\Rustam\source\repos\client_server\client_server\bin\Debug\client_server.exe
+C:\Users\Rustam\source\repos\client_server\client_server\bin\Debug\client_server.pdb
+C:\Users\Rustam\source\repos\client_server\client_server\obj\Debug\client_server.csprojAssemblyReference.cache
+C:\Users\Rustam\source\repos\client_server\client_server\obj\Debug\client_server.Properties.Resources.resources
+C:\Users\Rustam\source\repos\client_server\client_server\obj\Debug\client_server.csproj.GenerateResource.cache
+C:\Users\Rustam\source\repos\client_server\client_server\obj\Debug\client_server.exe
+C:\Users\Rustam\source\repos\client_server\client_server\obj\Debug\client_server.pdb
+C:\Users\Rustam\source\repos\client_server\client_server\obj\Debug\client_server.Socets.resources
+C:\Users\adeli\Downloads\1253QUANTUMVM.UNRARMETRO_ckbnxvahp5f44!App\Extracted (2)\Алгоритмизация лаба 1rar\client_server\client_server\bin\Debug\client_server.exe.config
+C:\Users\adeli\Downloads\1253QUANTUMVM.UNRARMETRO_ckbnxvahp5f44!App\Extracted (2)\Алгоритмизация лаба 1rar\client_server\client_server\bin\Debug\client_server.exe
+C:\Users\adeli\Downloads\1253QUANTUMVM.UNRARMETRO_ckbnxvahp5f44!App\Extracted (2)\Алгоритмизация лаба 1rar\client_server\client_server\bin\Debug\client_server.pdb
+C:\Users\adeli\Downloads\1253QUANTUMVM.UNRARMETRO_ckbnxvahp5f44!App\Extracted (2)\Алгоритмизация лаба 1rar\client_server\client_server\obj\Debug\client_server.csproj.AssemblyReference.cache
+C:\Users\adeli\Downloads\1253QUANTUMVM.UNRARMETRO_ckbnxvahp5f44!App\Extracted (2)\Алгоритмизация лаба 1rar\client_server\client_server\obj\Debug\client_server.csproj.SuggestedBindingRedirects.cache
+C:\Users\adeli\Downloads\1253QUANTUMVM.UNRARMETRO_ckbnxvahp5f44!App\Extracted (2)\Алгоритмизация лаба 1rar\client_server\client_server\obj\Debug\client_server.Socets.resources
+C:\Users\adeli\Downloads\1253QUANTUMVM.UNRARMETRO_ckbnxvahp5f44!App\Extracted (2)\Алгоритмизация лаба 1rar\client_server\client_server\obj\Debug\client_server.Properties.Resources.resources
+C:\Users\adeli\Downloads\1253QUANTUMVM.UNRARMETRO_ckbnxvahp5f44!App\Extracted (2)\Алгоритмизация лаба 1rar\client_server\client_server\obj\Debug\client_server.csproj.GenerateResource.cache
+C:\Users\adeli\Downloads\1253QUANTUMVM.UNRARMETRO_ckbnxvahp5f44!App\Extracted (2)\Алгоритмизация лаба 1rar\client_server\client_server\obj\Debug\client_server.csproj.CoreCompileInputs.cache
+C:\Users\adeli\Downloads\1253QUANTUMVM.UNRARMETRO_ckbnxvahp5f44!App\Extracted (2)\Алгоритмизация лаба 1rar\client_server\client_server\obj\Debug\client_server.exe
+C:\Users\adeli\Downloads\1253QUANTUMVM.UNRARMETRO_ckbnxvahp5f44!App\Extracted (2)\Алгоритмизация лаба 1rar\client_server\client_server\obj\Debug\client_server.pdb
